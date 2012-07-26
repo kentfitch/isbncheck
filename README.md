@@ -1,4 +1,4 @@
 ISBN Checker
 ------------
 
-This is a sample project for a talk.
+This is a sample simple project for a talk.
