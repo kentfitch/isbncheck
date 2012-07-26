@@ -1,7 +1,7 @@
 require 'rake'
 require 'rake/testtask'
 
-task :default => [:test_units]
+task :default => [:test]
 
 desc "Run basic tests"
 Rake::TestTask.new("test") { |t|
