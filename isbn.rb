@@ -1,5 +1,5 @@
 module Isbn
   def Isbn.validate(isbn)
-    return true
+    return false
   end
 end
